@@ -1,1 +1,3 @@
 ## Readme deneme
+* bir
+* İki
